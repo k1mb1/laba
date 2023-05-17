@@ -9,7 +9,6 @@ ol li {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #table {
-    
 	justify-content: center;
 	display:flex;
 }
@@ -34,7 +33,7 @@ footer {
 }
 a.foo:hover {
   text-decoration-color: black;
-  color: black;
+  color: #ffffff;
 }
 a.foo {
   text-decoration-color: white;
